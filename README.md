@@ -38,16 +38,14 @@ The dataset used contains monthly and annual rainfall data for different Indian 
 Set up a Python environment (optional but recommended)
 python -m venv env
 source env/bin/activate
-# On Windows: env\Scripts\activate
 
-Open the Notebook
+# Open the Notebook
 jupyter notebook Rainfall_Analysis.ipynb
 
 📁 File Structure
 Rainfall_Analysis/
 ├── Rainfall_Analysis.ipynb     # Main analysis notebook
 ├── rainfall_data.csv           # (If applicable) Raw data
-├── requirements.txt            # Python dependencies
 └── README.md                   # Project documentation
 
 ✍️ Author
