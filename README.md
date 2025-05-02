@@ -29,9 +29,6 @@ The dataset used contains monthly and annual rainfall data for different Indian 
 - 🟡 Heatmaps and Boxplots for Distribution
 - 🌧️ Identification of Drought/Excess Rainfall Patterns
 
-## 📊 Sample Visualizations
-
-> Include image examples of plots (line graphs, heatmaps, bar charts, etc.) if available.
 
 ## 🧪 How to Run
 
@@ -58,4 +55,11 @@ JustCodeIT199 , Kshitij15042004
 
 📜 License
 This project is licensed under the MIT License.
+
+## 📊 Sample Visualizations
+![Screenshot 2025-05-03 031429](https://github.com/user-attachments/assets/bad0b194-d8b8-4e30-959e-379f9ff2ff1c)
+![Screenshot 2025-05-03 031404](https://github.com/user-attachments/assets/8da4be97-acd8-4d58-9cfa-428eeb1a1bb0)
+![Screenshot 2025-05-03 031239](https://github.com/user-attachments/assets/aedb9e16-a755-48a1-8f3d-0a6dc5752f6e)
+![Screenshot 2025-05-03 031214](https://github.com/user-attachments/assets/403e55f4-b771-4aab-9d5c-664bc37aa1dd)
+
 
