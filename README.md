@@ -34,10 +34,11 @@ The dataset used contains monthly and annual rainfall data for different Indian 
 
 1. **Clone the Repository**
    git clone https://github.com/JustCodeIT199/Rainfall_Analysis.git
-   cd Rainfall_Analysis
+   cd Rainfall_Analysis .
 Set up a Python environment (optional but recommended)
 python -m venv env
 source env/bin/activate
+On Windows: env\Scripts\activate
 
 # Open the Notebook
 jupyter notebook Rainfall_Analysis.ipynb
